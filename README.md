@@ -1,2 +1,5 @@
-# Sample-Sites
+# Sample Sites
 Easy to understand HTML sites for beginners to use and edit for free!
+
+# Available Sites
+Coming soon!
