@@ -12,4 +12,5 @@ Feel free to play around and edit all these sites as you please.
 [HTML Images](HTML_Images)
 
 [HTML Multiple](HTML_Mutliple) (Some of the files were too large, but the file should still work as intended, sorry!)
+
 Additionally, remember to keep all the files in the same directory so that the HTML files can reference them.
