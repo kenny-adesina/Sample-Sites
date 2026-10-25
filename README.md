@@ -6,7 +6,7 @@ Feel free to play around and edit all these sites as you please.
 # Available HTML Files
 
 *Start Here:*
-[HTML_FirstSite](HTML_FirstSite)
+[HTML_FirstSite](HTML_FirstSite) & [HTML_SecondSite](HTML_SecondSite)
 
 
 * Pair these with YouTube tutorials if needed
