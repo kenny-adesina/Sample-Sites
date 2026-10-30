@@ -9,7 +9,7 @@ Feel free to play around and edit all these sites as you please.
 [HTML_FirstSite](HTML_FirstSite) & [HTML_SecondSite](HTML_SecondSite)
 
 
-* Pair these with YouTube tutorials if needed
+* Pair these with YouTube tutorials if needed! 😁
 
 * [HTML_Colors](HTML_Colors)
 
@@ -20,5 +20,7 @@ Feel free to play around and edit all these sites as you please.
 * [HTML Multiple](HTML_Mutliple) (Some of the files were too large, but the .html files should still work as intended, sorry!)
 
 * [HTML_Dividers](HTML_Dividers)
+
+* [HTML_Metadata](HTML_Metadata)
 
 Additionally, remember to keep all the files in the same directory so that the HTML files can reference them.
