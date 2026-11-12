@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div align = "center" style="margin-bottom: 50px;">
+    <a href = "https://www.youtube.com/" target="_blank" style="margin-right: 5%;">
+     <button style = "background-color: rgb(255, 0, 0); color : white; border-radius: 5px;">Go to Youtube</button>
+    </a>
+
+    <a href = "https://www.netflix.com/" target="_blank"  style="margin-right: 5%;">
+     <button style = "background-color: rgb(200, 0, 0); color : rgb(255, 184, 184); border-radius: 5px;">Go to Netflix</button>
+    </a>
+
+     <a href = "https://vimeo.com/" target="_blank"  style="margin-right: 5%;">
+     <button style = "background-color: rgb(13, 57, 75); color : skyblue; border-radius: 5px;">Go to Vimeo</button>
+    </a>
+
+    <a href = "https://www.twitch.tv/" target="_blank"  style="margin-right: 5%;">
+     <button style = "background-color: rgb(139, 0, 182); color : white; border-radius: 5px;">Go to Twitch</button>
+    </a>
+
+    <a href = "https://kick.com/" target="_blank"  style="margin-right: 5%;">
+     <button style = "background-color: rgb(25, 214, 0); color : white; border-radius: 5px;">Go to Kick</button>
+    </a>
+
+     <a href = "https://www.reddit.com/" target="_blank"  style="margin-right: 5%;">
+     <button style = "background-color: rgba(255, 60, 0, 0.5); color : rgb(255, 255, 255); border-radius: 5px;" disabled>Go to Reddit</button>
+    </a>
+    </div>
+    
+    <hr width="80%" style="height: 5px;" color="grey"><br>
+
+    <div align="center"><button onclick="changeClicks()">Click Me!</button></div>
+
+    <p align="center" id="clicks">Clicks: 0</p>
+
+    <script>
+        let x = 0;
+
+        function changeClicks(){
+            x++;
+            document.getElementById("clicks").innerHTML = "Clicks: "+x;
+        }
+    </script>
+
+</body>
+</html>
