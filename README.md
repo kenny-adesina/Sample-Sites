@@ -25,4 +25,6 @@ Feel free to play around and edit all these sites as you please.
 
 * [HTML Frames](HTML_Frames) (You may want to disable your browser's ad blocker for this one!)
 
+* [HTML_Buttons](HTML_Buttons)
+
 Additionally, remember to keep all the files in the same directory so that the HTML files can reference them.
