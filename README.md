@@ -27,4 +27,6 @@ Feel free to play around and edit all these sites as you please.
 
 * [HTML_Buttons](HTML_Buttons)
 
+* [HTML Forms](HTML_Forms)
+
 Additionally, remember to keep all the files in the same directory so that the HTML files can reference them.
